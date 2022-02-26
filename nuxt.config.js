@@ -1,3 +1,4 @@
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -65,6 +66,9 @@ export default {
      ]
      //
      ['@nuxt/http']
+
+     //
+     ['@nuxtjs/color-mode']
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

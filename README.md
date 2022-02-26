@@ -31,3 +31,5 @@
 * [Nuxt router](https://github.com/nuxt-community/router-module)
 
 * [Nuxt http](https://http.nuxtjs.org/getting-started/setup)
+
+* [Nuxt Color mode](https://color-mode.nuxtjs.org/#setup)
