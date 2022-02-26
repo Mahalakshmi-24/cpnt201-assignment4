@@ -58,11 +58,13 @@ export default {
     // https://go.nuxtjs.dev/axios
     
       "@storyblok/nuxt",
-      {
+     [ {
         accessToken: "YOUR_PREVIEW_TOKEN",
         cacheProvider: "memory",
       },
-    
+     ]
+     //
+     ['@nuxt/http']
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

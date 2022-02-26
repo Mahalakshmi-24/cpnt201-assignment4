@@ -29,3 +29,5 @@
 * [Nuxt google-fonts](https://github.com/nuxt-community/google-fonts-module)
 
 * [Nuxt router](https://github.com/nuxt-community/router-module)
+
+* [Nuxt http](https://http.nuxtjs.org/getting-started/setup)
