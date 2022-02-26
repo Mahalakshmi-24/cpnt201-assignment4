@@ -33,3 +33,25 @@
 * [Nuxt http](https://http.nuxtjs.org/getting-started/setup)
 
 * [Nuxt Color mode](https://color-mode.nuxtjs.org/#setup)
+
+## Commits
+
+1. Nuxt installation finished.
+
+2. nuxt installation and readme file added.
+
+3. Assets folder added.
+
+4. nuxt storyblok module and readme file added.
+
+5. nuxt image installed and readme file added.
+
+6. nuxt vuetify added and readme file added.
+
+7. nuxt fonts added and readme file added.
+
+8. nuxt route module added and readme file added.
+
+9. nuxt http added
+
+10. nuxt color mode added
