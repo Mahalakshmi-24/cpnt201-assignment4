@@ -13,3 +13,11 @@
 * first i install nuxt configiraton and created repo without readme and licence file.
 
 * after that i pushed it works now.
+
+* assets folder created.
+
+### Nuxt Modules
+
+* Tailwindcss added and the dependency added before.
+
+* [Nuxt Storyblok](https://github.com/storyblok/storyblok-nuxt)
