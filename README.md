@@ -27,3 +27,5 @@
 * [Nuxt vuetify](https://github.com/nuxt-community/vuetify-module)
 
 * [Nuxt google-fonts](https://github.com/nuxt-community/google-fonts-module)
+
+* [Nuxt router](https://github.com/nuxt-community/router-module)

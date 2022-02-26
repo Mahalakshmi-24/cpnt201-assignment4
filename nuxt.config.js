@@ -44,7 +44,12 @@ export default {
     '@nuxtjs/google-fonts',
 
     // With options
-    ['@nuxtjs/google-fonts', { /* module options */ }]
+    ['@nuxtjs/google-fonts', { /* module options */ }],
+    // Simple usage
+    '@nuxtjs/router',
+
+    // With options
+    ['@nuxtjs/router', { /* module options */ }]
     
   ],
 
