@@ -25,3 +25,5 @@
 * [Nuxt image](https://image.nuxtjs.org/getting-started/installation)
 
 * [Nuxt vuetify](https://github.com/nuxt-community/vuetify-module)
+
+* [Nuxt google-fonts](https://github.com/nuxt-community/google-fonts-module)
