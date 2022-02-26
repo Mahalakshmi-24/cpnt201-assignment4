@@ -21,3 +21,5 @@
 * Tailwindcss added and the dependency added before.
 
 * [Nuxt Storyblok](https://github.com/storyblok/storyblok-nuxt)
+
+* [Nuxt image](https://image.nuxtjs.org/getting-started/installation)
