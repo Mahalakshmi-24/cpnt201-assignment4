@@ -23,3 +23,5 @@
 * [Nuxt Storyblok](https://github.com/storyblok/storyblok-nuxt)
 
 * [Nuxt image](https://image.nuxtjs.org/getting-started/installation)
+
+* [Nuxt vuetify](https://github.com/nuxt-community/vuetify-module)

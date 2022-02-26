@@ -34,6 +34,11 @@ export default {
     '@nuxtjs/tailwindcss',
     // 
     '@nuxt/image',
+    // Simple usage
+    '@nuxtjs/vuetify',
+
+    // With options
+    ['@nuxtjs/vuetify', { /* module options */ }]
 
   ],
 
