@@ -55,3 +55,7 @@
 9. nuxt http added
 
 10. nuxt color mode added
+
+## Attribution
+
+* Maryam Khan.
